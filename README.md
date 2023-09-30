@@ -6,8 +6,11 @@
  
 
  ---
- ![logo pic](https://github.com/GFGSC-CGC-Jhanjeri/GFGSC_CGCJ-1/assets/144611754/aa91162b-2ace-408e-ac32-8c41ffb8e11e)
 
+
+<p align = "center">
+ <img src="https://user-images.githubusercontent.com/114910666/271776441-4d98b647-861c-48f6-a2a1-4e6b4dfe02e6.png"/>
+</p>
 ---
 ## Contribution Guidelines
 
