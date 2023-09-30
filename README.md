@@ -28,3 +28,7 @@ Stay connected with our community:
 ---
 ## Acknowledgments
 We would like to thank our dedicated members, volunteers, and sponsors for their support and contributions.
+
+---
+## We Welcome to your curiosity and contribution!!
+GFGSC-CGCJ Technical Team❤
