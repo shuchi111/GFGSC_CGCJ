@@ -20,7 +20,7 @@ Stay connected with our community:
 
 - Website: [Tech Awareness Chapter]
 - GitHub: [GitHub Organization](https://github.com/GFGSC-CGC-Jhanjeri)
-- Email: contact@example.com
+- Email: gfgsccgcj@gmail.com
 - Twitter: (https://x.com/Gfg_sc_cgcj?s=08)
 - Discord: (https://discord.gg/ffYAVKFj)
 - Linkdlen: [Tech Awareness Chapter](https://www.linkedin.com/company/gfg-student-chapter-cgc-jhanjeri/?viewAsMember=true)
