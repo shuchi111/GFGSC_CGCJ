@@ -117,7 +117,7 @@ const Events = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Aperiam, deserunt? Repudiandae impedit libero officia nostrum
                 atque consectetur ad quasi officiis fuga sit eligendi molestias
-                laboriosam deserunt, ab obcaecati, explicabo voluptatem!
+                laboriosam deserunt, ab obcaecati, explicabo voluptatem okay !
               </p>
 
               <div className="below_tab">
