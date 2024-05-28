@@ -15,5 +15,7 @@ Within the GFG Student Chapter at CGC-J, our core ethos revolves around the spir
   ![image](https://github.com/shuchi111/GFGSC_CGCJ-1/assets/107612618/b59de0cc-1cd7-4d02-93f2-fd97619487b5)
 
   ---
+  Pblic url: https://cgcj-gfg-sc.vercel.app/
+  ---
   Improvemnt is in progress...
 
